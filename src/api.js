@@ -1,6 +1,5 @@
 const express = require('express');
 const serverless = require('serverless-http');
-// const proxy = require('express-http-proxy');
 const path = require('path');
 var httpProxy = require('http-proxy');
 const {getHandler} = require('./cors/cors-anywhere');
