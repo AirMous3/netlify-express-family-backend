@@ -1,0 +1,29 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development netlify-lambda serve src",
+    "build": "NODE_ENV=production netlify-lambda build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirMous3/netlify-express-family-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirMous3/netlify-express-family-backend/issues"
+  },
+  "homepage": "https://github.com/AirMous3/netlify-express-family-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-http-proxy": "^1.6.3",
+    "http-proxy": "^1.18.1",
+    "netlify-lambda": "^2.0.15",
+    "proxy-from-env": "^1.1.0",
+    "serverless-http": "^3.1.0"
+  }
+}

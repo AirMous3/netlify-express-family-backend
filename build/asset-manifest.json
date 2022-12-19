@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c60d519.chunk.css",
+    "main.js": "/static/js/main.83215d8e.chunk.js",
+    "main.js.map": "/static/js/main.83215d8e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf1a3862.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf1a3862.js.map",
+    "static/css/2.170ca112.chunk.css": "/static/css/2.170ca112.chunk.css",
+    "static/js/2.d0d5785d.chunk.js": "/static/js/2.d0d5785d.chunk.js",
+    "static/js/2.d0d5785d.chunk.js.map": "/static/js/2.d0d5785d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.170ca112.chunk.css.map": "/static/css/2.170ca112.chunk.css.map",
+    "static/css/main.2c60d519.chunk.css.map": "/static/css/main.2c60d519.chunk.css.map",
+    "static/js/2.d0d5785d.chunk.js.LICENSE.txt": "/static/js/2.d0d5785d.chunk.js.LICENSE.txt",
+    "static/media/Real_Map_of_the_World.0825f9c8.jpg": "/static/media/Real_Map_of_the_World.0825f9c8.jpg",
+    "static/media/actor.7ffca70f.png": "/static/media/actor.7ffca70f.png",
+    "static/media/book2.3669c464.png": "/static/media/book2.3669c464.png",
+    "static/media/camera_400.3aeeae7e.png": "/static/media/camera_400.3aeeae7e.png",
+    "static/media/family-three.c55ad876.png": "/static/media/family-three.c55ad876.png",
+    "static/media/mom-and-dad.a7f06aa7.png": "/static/media/mom-and-dad.a7f06aa7.png",
+    "static/media/workers.bbbb6453.png": "/static/media/workers.bbbb6453.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1a3862.js",
+    "static/css/2.170ca112.chunk.css",
+    "static/js/2.d0d5785d.chunk.js",
+    "static/css/main.2c60d519.chunk.css",
+    "static/js/main.83215d8e.chunk.js"
+  ]
+}
